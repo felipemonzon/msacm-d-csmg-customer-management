@@ -1,0 +1,10 @@
+version: 1.0.0
+author: Felipe Monzón
+date: 04/MAY/2021s
+description: Se libera versión ALFA
+
+version: 1.0.1
+author: Felipe Monzón
+date: 30/MAY/2021
+description: Se agrega propiedad salary a la salida de la api de consulta
+
